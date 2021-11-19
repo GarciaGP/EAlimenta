@@ -2,11 +2,17 @@
 
 
 Aline Triñanes Machado - RM 84449 - alinetrim@hotmail.com
+
 Alysson Gustavo Rodrigues Maciel - RM 86484 - alymaciel8@gmail.com
+
 Gabriel Franham - RM 80483 - gabrielfranham@gmail.com
+
 Gabriel Garcia Pereira - RM 86288 - gabriel.garp@outlook.com
+
 Helouíse Cristina de Almeida Itokazo - RM 85110 - helouise.almeida93@gmail.com
+
 Jonas Muniz de Souza - RM 84575 - jonasmzsouza@gmail.com
+
 
 
 O projeto tem como intuito auxiliar na distribuição de alimentos que sobram de escolas da rede pública de ensino, tanto municipal, quanto estadual.
@@ -24,6 +30,7 @@ Listagem de retiradas de alimentos
 
 
 ===============HOWTO================
+
 1 - Cadastrar alimentos
 2 - Editar alimentos
 3 - Retirar Alimentos disponíveis
@@ -31,6 +38,7 @@ Listagem de retiradas de alimentos
 
 
 ====================BANCO================
+
 Senha:Menk@2020
 login:ambers
 
